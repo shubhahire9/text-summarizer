@@ -71,6 +71,9 @@ http://127.0.0.1:8000
 ```
 
 ---
+## Note
+
+The trained model is not included in this repository because it exceeds GitHub's file size limit. Place the trained model inside the `saved_summary_model/` directory before running the application.
 
 ## 📸 Screenshots
 
